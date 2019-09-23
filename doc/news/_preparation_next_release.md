@@ -151,7 +151,7 @@ you up to date with the multi-language support provided by Elektra.
 
 - kdb can call [cmerge](../help/kdb-cmerge.md) and specify a [strategy](../help/elektra-cmerge-strategy.md) to resolve conflicts. _(Dominic Jäger)_
 - Checks for `kdbCommit` have been added to [kdb check](../help/kdb-check.md). _(Vid Leskovar)_
-- elektrad is completely rewritten in go using the new [go-elektra](https://github.com/ElektraInitiative/go-elektra/) bindings.
+- elektrad is completely rewritten in go using the new [go-elektra](https://github.com/ElektraInitiative/go-elektra/) bindings. _(Raphael Gruber)_
 - <<TODO>>
 
 ## Scripts

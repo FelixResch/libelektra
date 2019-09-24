@@ -19,6 +19,7 @@ if (BUILD_TESTING)
 		target_include_directories (${name} PUBLIC "${CMAKE_SOURCE_DIR}/tests/cframework")
 
 		target_link_elektra (${name}
+				     elektra-plugin
 				     elektra-kdb
 				     elektra-invoke
 				     elektra-pluginprocess

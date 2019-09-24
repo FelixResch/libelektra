@@ -7,6 +7,7 @@ if (PLUGINPROCESS_FOUND)
 		 SOURCES
 		 ${SOURCES}
 		 LINK_ELEKTRA
+		 elektra-plugin
 		 elektra-invoke
 		 elektra-plugin)
 
